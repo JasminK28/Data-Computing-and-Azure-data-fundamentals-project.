@@ -40,10 +40,18 @@ Applied real-world scenarios to each model.
 
 ![Cloud Architecture](https://upload.wikimedia.org/wikipedia/commons/6/6e/Hybrid_cloud_diagram.svg)
 
-- Public cloud  
-- Private cloud  
-- Hybrid cloud  
-- Community cloud  
+- Public cloud
+- <img width="597" height="280" alt="image" src="https://github.com/user-attachments/assets/ebd55719-97b5-4668-a8e7-07b377f6810b" />
+
+- Private cloud
+- <img width="595" height="187" alt="image" src="https://github.com/user-attachments/assets/be25112b-24e0-4b7e-b7c1-e9a62fc0a4c7" />
+
+- Hybrid cloud
+- <img width="598" height="116" alt="image" src="https://github.com/user-attachments/assets/418d6e88-09fc-4524-9310-628c98c52d82" />
+
+- Community cloud
+-  <img width="587" height="181" alt="image" src="https://github.com/user-attachments/assets/6c60326f-0cea-4f52-bb47-78559e57bc96" />
+
 
 Understood business use cases for each.
 
@@ -56,7 +64,9 @@ Understood business use cases for each.
 **Skills demonstrated:**
 - Querying Azure SQL databases  
 - Filtering, grouping, aggregating data  
-- Joining tables for reporting  
+- Joining tables for reporting
+- <img width="677" height="321" alt="image" src="https://github.com/user-attachments/assets/fc2bfd19-2db9-4e02-9cd5-f691c07e919b" />
+
 
 ---
 
