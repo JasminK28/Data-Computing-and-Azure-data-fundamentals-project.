@@ -26,8 +26,6 @@ Explored core cloud computing concepts:
 
 ### 🧱 Cloud Service Models
 
-![Cloud Service Models](https://upload.wikimedia.org/wikipedia/commons/1/1b/Cloud_computing_stack.svg)
-
 - IaaS – infrastructure control  
 - PaaS – development platform  
 - SaaS – software via internet  
@@ -38,7 +36,6 @@ Applied real-world scenarios to each model.
 
 ### 🏢 Cloud Architecture Types
 
-![Cloud Architecture](https://upload.wikimedia.org/wikipedia/commons/6/6e/Hybrid_cloud_diagram.svg)
 
 - Public cloud
 - <img width="597" height="280" alt="image" src="https://github.com/user-attachments/assets/ebd55719-97b5-4668-a8e7-07b377f6810b" />
@@ -59,7 +56,6 @@ Understood business use cases for each.
 
 ### 💻 Azure SQL & Data Analysis
 
-![SQL Example](https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png)
 
 **Skills demonstrated:**
 - Querying Azure SQL databases  
