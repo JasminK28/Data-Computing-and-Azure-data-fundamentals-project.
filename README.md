@@ -1,108 +1,148 @@
-# Data-Computing-and-Azure-data-fundamentals-project.
+# ☁️ Data Computing & Azure Fundamentals Project
+
 Practice cloud computing and Azure projects demonstrating data storage, querying, and analytics in a cloud environment. Covers Azure services, SQL in cloud databases, and data security concepts.
-☁️ Cloud Computing & Azure Data Project
-Data Technician Bootcamp Portfolio
+
+---
+
+## ☁️ Cloud Computing & Azure Data Project  
+**Data Technician Bootcamp Portfolio**
+
 This project showcases my work on cloud computing and Microsoft Azure during a Data Technician bootcamp. It focuses on understanding cloud concepts, working with Azure services, and analysing data in cloud-based environments.
 
-📁 Project Overview
-☁️ Cloud Fundamentals
+---
+
+## 📁 Project Overview
+
+### ☁️ Cloud Fundamentals
+
 Explored core cloud computing concepts and how they are applied in real-world scenarios.
-Key learning:
 
-Benefits of cloud computing (scalability, cost savings, remote access)
-Differences between cloud and on-premises infrastructure
-Overview of major providers (Azure, AWS, Google Cloud) [Data_Techn...eek_5 2026 | Word]
+📸 **Concept Overview / Notes**
+./cloud_fundamentals.png
 
+**Key learning:**
+- Benefits of cloud computing (scalability, cost savings, remote access)  
+- Differences between cloud and on-premises infrastructure  
+- Overview of major providers (Azure, AWS, Google Cloud)  
 
-🧱 Cloud Service Models
+---
+
+### 🧱 Cloud Service Models
+
 Explained and applied different cloud service models:
 
-IaaS – Full control over infrastructure (servers, storage)
-PaaS – Platform for building and deploying applications
-SaaS – Software delivered via the internet
+📸 **Service Model Comparison**
+./cloud_models.png
 
-Application:
+- IaaS – Full control over infrastructure (servers, storage)  
+- PaaS – Platform for building and deploying applications  
+- SaaS – Software delivered via the internet  
 
-Selected IaaS for a business needing full infrastructure control
-Identified real-world use cases for each service [Data_Techn...eek_5 2026 | Word]
+**Application:**
+- Selected IaaS for a business needing full infrastructure control  
+- Identified real-world use cases  
 
+---
 
-🏢 Cloud Architecture Types
+### 🏢 Cloud Architecture Types
+
 Reviewed different cloud deployment models:
 
-Public cloud (shared infrastructure)
-Private cloud (secure, single organisation)
-Hybrid cloud (combination of both)
-Community cloud (shared between organisations)
+📸 **Architecture Diagram / Notes**
+./cloud_architecture.png
 
-Outcome:
+- Public cloud (shared infrastructure)  
+- Private cloud (secure, single organisation)  
+- Hybrid cloud (combination of both)  
+- Community cloud (shared between organisations)  
 
-Understood when to use each model based on business needs [Data_Techn...eek_5 2026 | Word]
+**Outcome:**
+- Understood when to use each model based on business needs  
 
+---
 
-💻 Azure SQL & Data Analysis
+### 💻 Azure SQL & Data Analysis
+
 Worked with Azure databases and performed SQL queries in a cloud environment.
-Skills demonstrated:
 
-Querying Azure SQL databases
-Filtering and analysing customer and product data
-Using aggregations (COUNT, AVG, SUM)
-Joining tables to generate reports
+📸 **SQL Query Results / Output**
+./azure_sql_results.png
 
-Example tasks:
+**Skills demonstrated:**
+- Querying Azure SQL databases  
+- Filtering and analysing customer and product data  
+- Using aggregations (COUNT, AVG, SUM)  
+- Joining tables to generate reports  
 
-Customer segmentation queries
-Product pricing and profit analysis
-Sales and performance reporting [Data_Techn...eek_5 2026 | Word]
+**Example tasks:**
+- Customer segmentation queries  
+- Product pricing and profit analysis  
+- Sales and performance reporting  
 
+---
 
-🗄️ Azure Data Storage & Services
+### 🗄️ Azure Data Storage & Services
+
 Explored both relational and non-relational data storage in Azure.
-Hands-on experience:
 
-Azure SQL Database
-Azure Blob Storage
-Azure Data Lake
-Azure Files and Tables
+📸 **Azure Storage Dashboard / Setup**
+./azure_storage.png
 
-Outcome:
+**Hands-on experience:**
+- Azure SQL Database  
+- Azure Blob Storage  
+- Azure Data Lake  
+- Azure Files and Tables  
 
-Learned how to store, manage, and access different data types in the cloud [Data_Techn...eek_5 2026 | Word]
+**Outcome:**
+- Learned how to store, manage, and access different data types in the cloud  
 
+---
 
-📊 Data Analytics in Azure
+### 📊 Data Analytics in Azure
+
 Completed labs focused on analysing and visualising data in Azure.
-Key concepts:
 
-Data processing and analysis in cloud environments
-Using tools for reporting and insights
-Understanding data workflows in Azure
+📸 **Analytics / Dashboard Screenshot**
+./azure_analytics.png
 
+**Key concepts:**
+- Data processing and analysis in cloud environments  
+- Using tools for reporting and insights  
+- Understanding data workflows in Azure  
 
-⚖️ Data Security & Regulations
+---
+
+### ⚖️ Data Security & Regulations
+
 Studied key laws and best practices for handling data.
-Covered topics:
 
-Computer Misuse Act
-Data Protection Act (2018)
-GDPR principles
-Copyright and data privacy
+📸 **Security / Notes Screenshot**
+./data_security.png
 
-Outcome:
+**Covered topics:**
+- Computer Misuse Act  
+- Data Protection Act (2018)  
+- GDPR principles  
+- Copyright and data privacy  
 
-Gained awareness of legal and ethical data handling responsibilities [Data_Techn...eek_5 2026 | Word]
+**Outcome:**
+- Gained awareness of legal and ethical data handling responsibilities  
 
+---
 
-🛠️ Skills Demonstrated
+## 🛠️ Skills Demonstrated
 
-Cloud computing fundamentals
-Microsoft Azure services
-SQL in cloud environments
-Data storage (relational & non-relational)
-Data analysis and querying
-Understanding of data security and regulations
-Analytical and problem-solving skills
+- Cloud computing fundamentals  
+- Microsoft Azure services  
+- SQL in cloud environments  
+- Data storage (relational & non-relational)  
+- Data analysis and querying  
+- Understanding of data security and regulations  
+- Analytical and problem-solving skills  
 
+---
 
-🚀 Summary
+## 🚀 Summary
+
 This project demonstrates my ability to work with cloud technologies, use Azure services for data storage and analysis, and apply SQL in a cloud-based environment. It highlights my understanding of modern data platforms and secure data handling practices.
